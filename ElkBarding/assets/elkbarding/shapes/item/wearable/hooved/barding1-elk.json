@@ -1,5 +1,6 @@
 {
 	"editor": {
+		"backDropShape": "entity/land/hooved/deer/elk/female",
 		"collapsedPaths": ",Root/ORIGINmid,Root/ORIGINhead,Root/Rump,Root/BardNeck2ORIGIN,Root/Hood,Root/headORIGIN/hood,Root/Neck2ORIGIN,Root/Hood2,Root/neck1ORIGIN,Root/HEADORIGIN,Root/Bardneck1ORIGIN,Root/ORIGIN,Root/headORIGIN",
 		"allAngles": true,
 		"entityTextureMode": false
